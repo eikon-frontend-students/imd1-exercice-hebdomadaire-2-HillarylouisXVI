@@ -1,0 +1,19 @@
+body{font-family: Arial, Helvetica, sans-serif; 
+}
+h1{
+    color:  #273208;
+    font-size: 75px;
+    margin: 0 0 10px
+}
+div{
+    padding: 60px 43px 40px 44px;
+    background-color: #c2f244;
+    border: 6px solid black;
+    border-bottom-right-radius: 200px;
+    
+}
+
+img{
+    max-width: 100%;
+    border-bottom-right-radius: 200px;
+}
